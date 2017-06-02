@@ -42,7 +42,7 @@ Windows の場合 https://nodejs.org/ja/ から .msi ファイルをダウンロ
 1. 作業用ディレクトリを作成し、その中にStadonの構成ファイルをコピーします。
 次のような構成になります。
 
-
+```
     作業用ディレクトリ/  
       ├ $stadon.js  
       ├ node_modules/  
@@ -51,6 +51,7 @@ Windows の場合 https://nodejs.org/ja/ から .msi ファイルをダウンロ
       └ source/  
           ├ copy/  
           └ script/  
+```
 
 ## 使い方
 $stadon.js を Node.js 上で実行します。
