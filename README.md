@@ -57,7 +57,8 @@ $stadon.js を Node.js 上で実行します。
 その方法は色々あると思いますが、
 僕のおすすめは Microsoft 社製の Visual Studio Code というアプリを用いた方法です。
 Visual Studio Code(以下VSC)を用いることでスクリプトの作成効率が格段に向上します。  
-VSC で $stadon.js を開き、F5 を押すだけ実行できます。  
+VSC は初期状態で JavaScript を Node.js を用いて実行するようになっていますので、
+VSC で $stadon.js を開き、F5 を押すだけで Stadon を実行できます。  
 
 完成した HTML や CSS ファイルなどは、作業用ディレクトリ内の web ディレクトリに出力されます
 (web ディレクトリが存在しない場合は作成されます)。
