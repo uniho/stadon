@@ -43,14 +43,14 @@ Windows の場合 https://nodejs.org/ja/ から .msi ファイルをダウンロ
 次のような構成になります。
 
 
-    作業用ディレクトリ/
-      ├ $stadon.js
-      ├ node_modules/
-      │  ├ mkdirp/
-      │  └ require-from-string/
-      └ source/
-          ├ copy/
-          └ script/
+    作業用ディレクトリ/  
+      ├ $stadon.js  
+      ├ node_modules/  
+      │  ├ mkdirp/  
+      │  └ require-from-string/  
+      └ source/  
+          ├ copy/  
+          └ script/  
 
 ## 使い方
 $stadon.js を Node.js 上で実行します。
