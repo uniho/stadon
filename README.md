@@ -65,6 +65,10 @@ VSC で $stadon.js を開き、F5 を押すだけで Stadon を実行できま�
 (web ディレクトリが存在しない場合は作成されます)。
 あとは web ディレクトリの中身をFTPなどで web サーバーにアップロードするだけです。
 
+ちなみに、VSC の拡張機能として追加できる
+[vscode-preview-server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server)
+を使用すると、web ディレクトリに出力された HTML ファイル等の確認がすぐにできて便利です。
+
 実行内容の詳細は次の通りです。  
 source/copy ディレクトリの中のファイルやディレクトリは web ディレクトリにそのままコピーされます。  
 source/script ディレクトリの中にある、拡張子が .js で、ファイル名の先頭が $ 以外の
