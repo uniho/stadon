@@ -174,7 +174,7 @@ const Footer = `
 `;
 
 
-// �킴�킴�֐��ɂ���K�v�͂Ȃ����̂ł����A�֐��g�p��ɂȂ�悤�ɂ����Ċ֐��ɂ��Ă݂܂����B
+// わざわざ関数にする必要はないものですが、関数使用例になるようにあえて関数にしてみました。
 function Tail() {
   return `
       </div>
@@ -185,6 +185,7 @@ function Tail() {
 </html>
 `
 }
+
 
 module.exports = {
   Header,
