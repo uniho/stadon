@@ -67,7 +67,9 @@ VSC で $stadon.js を開き、F5 を押すだけで Stadon を実行できま�
 
 ちなみに、VSC の拡張機能として追加できる
 [vscode-preview-server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server)
-を使用すると、web ディレクトリに出力された HTML ファイル等の確認がすぐにできて便利です。
+を使用すると、web ディレクトリに出力された HTML ファイル等の確認がすぐにできて便利です。  
+コード編集用(作業用ディレクトリ)のVSCと、プレビュー用(webディレクトリ)のVSCと２つ起動して、
+プレビュー用VSCからvscode-preview-serverを実行する方法がおすすめです。
 
 実行内容の詳細は次の通りです。  
 
